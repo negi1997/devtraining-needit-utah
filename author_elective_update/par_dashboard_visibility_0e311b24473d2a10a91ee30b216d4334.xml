@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_visibility">
+    <par_dashboard_visibility action="DELETE">
+        <dashboard display_value="NeedIt Application">bd311b24473d2a10a91ee30b216d432a</dashboard>
+        <experience display_value="Platform Analytics">08c73d60537101100834ddeeff7b1287</experience>
+        <sys_class_name>par_dashboard_visibility</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-26 01:10:55</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>0e311b24473d2a10a91ee30b216d4334</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>par_dashboard_visibility_0e311b24473d2a10a91ee30b216d4334</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-26 01:10:55</sys_updated_on>
+    </par_dashboard_visibility>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>da7746633b24e250986d048aa4e45a44</instance_id>
+        <instance_name>dev313934</instance_name>
+        <name>par_dashboard_visibility_0e311b24473d2a10a91ee30b216d4334</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_visibility"><par_dashboard_visibility action="INSERT_OR_UPDATE"><dashboard display_value="NeedIt Application">bd311b24473d2a10a91ee30b216d432a</dashboard><experience display_value="Platform Analytics">08c73d60537101100834ddeeff7b1287</experience><sys_class_name>par_dashboard_visibility</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-26 01:10:55</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>0e311b24473d2a10a91ee30b216d4334</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>par_dashboard_visibility_0e311b24473d2a10a91ee30b216d4334</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-26 01:10:55</sys_updated_on></par_dashboard_visibility></record_update>]]></payload>
+        <payload_hash>-1945401375</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>08a1dc2e47e52e10a91ee30b216d4363</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-26 01:10:55</sys_created_on>
+        <sys_id>c2311b24473d2a10a91ee30b216d439a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1970a2486c30000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-26 01:10:55</sys_updated_on>
+        <type>PAR Dashboard Visibility</type>
+        <update_guid>ce311b24653d2a107d05efb068e71b35</update_guid>
+        <update_guid_history>ce311b24653d2a107d05efb068e71b35:-1945401375</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">ce419b24473d2a10a91ee30b216d4361</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-26 01:11:12</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_visibility">par_dashboard_visibility</sys_db_object>
+        <sys_id>0901704a2bdd434899fe539f16a778f1</sys_id>
+        <sys_metadata>0e311b24473d2a10a91ee30b216d4334</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>par_dashboard_visibility_0e311b24473d2a10a91ee30b216d4334</sys_update_name>
+        <sys_update_version display_value="par_dashboard_visibility_0e311b24473d2a10a91ee30b216d4334">c2311b24473d2a10a91ee30b216d439a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-26 01:11:12</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
